@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const themeToggle = document.getElementById("themeToggle");
 const icon = themeToggle.querySelector("i");
 
@@ -12,3 +13,6 @@ themeToggle.addEventListener("click", () => {
         icon.classList.add("fa-sun");
     }
 });
+=======
+console.log("Portfolio loaded successfully");
+>>>>>>> 9fa19f7731c0075f04d1124406ec14755ae6acc6
